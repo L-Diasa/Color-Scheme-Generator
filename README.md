@@ -12,7 +12,7 @@ Project Link: [https://l-diasa.github.io/Color-Scheme-Generator](https://l-diasa
 
 ### Dev Stories
 - [x] Made the website accessible on phone
-- [x] Set up making request to the [color API](https://www.thecolorapi.com/docs#schemes)
+- [x] Set up making request to [the color API](https://www.thecolorapi.com/docs#schemes)
 - [x] Modified queries according to the user's preferences
 - [x] Displayed scheme colors and hex values
 - [x] Styled hoverings
