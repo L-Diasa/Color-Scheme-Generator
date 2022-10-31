@@ -3,9 +3,9 @@ Project Link: [https://l-diasa.github.io/Color-Scheme-Generator](https://l-diasa
 
 ### User Stories
 - [x] User can choose the followings
-		- [x] a seed color
-		- [x] scheme mode
-		- [x] number of colors to be displayed (from 3 to 8)
+	- [x] a seed color
+	- [x] scheme mode
+	- [x] number of colors to be displayed (from 3 to 8)
 - [x] User can see scheme colors and hex values on the page
 - [x] User can click the color and its hex value will be copied to the clickboard
 - [x] User can view the website on mobile as well
